@@ -1,5 +1,5 @@
 # Front-End-Web-Development
-## HTTP-5121
+## HTTP-5122
 
 This is repo of course HTTP-5121 Front-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
