@@ -1,6 +1,8 @@
 # Front-End-Web-Development
 ## HTTP-5122
 
+<img src="./js.png" alt="JavaScript" width="50" height="50">
+
 This is repo of course HTTP-5121 Front-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
 
